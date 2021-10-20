@@ -1,0 +1,14 @@
+1993 Chevrolet                               Caprice                                         17
+1993 Chrysler                                Concorde                                        21
+1993 Chrysler                                Fifth Avenue/Imperial                           20
+1993 Chevrolet                               Pickup 2500 2WD                                 13
+1993 Dodge                                   Dakota Pickup 2WD                               22
+1993 Dodge                                   Dakota Pickup 2WD                               16
+1993 Dodge                                   Dakota Pickup 2WD                               16
+1994 Mercury                                 Sable                                           21
+1994 Mercury                                 Sable                                           20
+1995 Honda                                   Civic Del Sol                                   26
+1984 Jeep                                    CJ7 4WD                                         20
+1985 Oldsmobile                              Custom Cruiser Wagon                            21
+1992 GMC                                     Sonoma 4WD                                      16
+1993 Saturn                                  SL                                              24
